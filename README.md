@@ -8,7 +8,7 @@
 
 Coba dan akses aplikasi secara langsung melalui GitHub Pages:
 
-👉 **[Buka Aplikasi Philosofun](https://ravv-low.github.io/philosophy-encyclopedia/)**
+👉 **[Buka Aplikasi Philosofun](https://raufilhamandika.github.io/philosophy-encyclopedia/)**
 
 ---
 
